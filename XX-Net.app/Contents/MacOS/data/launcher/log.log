@@ -1,0 +1,11 @@
+May 21 21:27:46 - [INFO] module goagent version _ not exist
+May 21 21:27:46 - [INFO] module goagent auto upgrade to version 3.1.49
+May 21 21:27:46 - [INFO] module launcher version _ not exist
+May 21 21:27:46 - [INFO] module launcher auto upgrade to version 1.4.0
+May 21 21:27:46 - [INFO] module php_proxy version _ not exist
+May 21 21:27:46 - [INFO] module php_proxy auto upgrade to version 1.0.0
+May 21 21:27:48 - [INFO] use goagent version:3.1.49
+May 21 21:27:48 - [INFO] goagent 3.1.49 started /Users/will/Desktop/logo.app/Contents/MacOS/goagent/3.1.49/start.py
+May 21 21:27:52 - [INFO] start goagent time cost 4016
+May 21 21:27:53 - [INFO] generate desktop shortcut
+May 21 21:27:53 - [DEBUG] launcher web_control 127.0.0.1:57200 "GET / 
